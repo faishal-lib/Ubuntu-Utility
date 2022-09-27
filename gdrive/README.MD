@@ -1,4 +1,4 @@
-## Installilng Gdrive App
+## Installing Gdrive App
 
 ### Download & Change Permission
 `wget -O gdrive https://github.com/faishal-lib/Ubuntu-Collection/blob/main/gdrive/src/gdrive-linux-x64 && chmod +x gdrive`
