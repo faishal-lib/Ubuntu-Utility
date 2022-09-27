@@ -16,4 +16,5 @@ You will be given a link to confirm your login to Google Drive. Please copy and 
 ### List of Complete Command :
 `gdrive help`
 
-![image](https://user-images.githubusercontent.com/25089714/192476834-23d299df-164f-4fcc-a2a2-57079a3e7997.png)
+![image](https://user-images.githubusercontent.com/25089714/192478555-3f754a0b-9721-407f-8bca-2f18c86ff583.png)
+
